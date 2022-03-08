@@ -5,7 +5,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://photos.google.com/photo/AF1QipPY8cN1AWcZLJAYUgOOSZRu5OSa_1Oylt7BssXV";
+			  var snowsrc="https://s7.gifyu.com/images/ALIFA-DAUN.png";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
@@ -40,7 +40,7 @@
 			  am = new Array();
 			  stx = new Array();
 			  sty = new Array();
-			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "AF1QipPY8cN1AWcZLJAYUgOOSZRu5OSa_1Oylt7BssXV" : snowsrc
+			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "ALIFA-DAUN.png" : snowsrc
 			  for (i = 0; i < no; ++ i) {  
 				dx[i] = 0;                        // set coordinate variables
 				xp[i] = Math.random()*(doc_width-50);  // set position variables
