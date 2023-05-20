@@ -5,7 +5,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://s7.gifyu.com/images/ALIFA-DAUN.png";
+			  var snowsrc="https://s11.gifyu.com/images/ALIFA-DAUN.png";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
